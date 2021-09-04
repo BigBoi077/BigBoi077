@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @BigBoi077
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Security Projects
-- 📫 How to reach me leblancjoshua077@gmail.com
+<img src="http://www.todayifoundout.com/wp-content/uploads/2015/08/sleeping-cow.png" />
 
 <!---
 BigBoi077/BigBoi077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
